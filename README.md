@@ -66,6 +66,7 @@ Os dados coletados são enviados via comunicação serial Bluetooth, onde são r
 
 ## Formato de Dados
 > Envio: angulo,distancia.angulo2,distancia2
+
 > Recebimento: codigopython -> mapa
 
 ```python
