@@ -155,7 +155,7 @@ pygame.quit()
 
 Os objetos serão adicionados através da seguinte função Python:
 
-```
+```python
 def add_object(angle, distance):
     x = cart_pos[0] + distance * np.cos(angle)
     y = cart_pos[1] + distance * np.sin(angle)
