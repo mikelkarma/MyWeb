@@ -68,7 +68,7 @@ Os dados coletados são enviados via comunicação serial Bluetooth, onde são r
 > Envio: angulo,distancia.angulo2,distancia2
 > Recebimento: codigopython -> mapa
 
-```
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 import pygame
