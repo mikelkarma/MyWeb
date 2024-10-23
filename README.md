@@ -2,7 +2,7 @@ Neste projeto, demonstramos como realizar o mapeamento do ambiente utilizando um
 
 O código utilizado para esse projeto é o seguinte:
 
-´´´python
+```
 #include <Servo.h>
 
 const int trigPin = 11; // Pino para o Trigger do sensor ultrassônico
@@ -56,4 +56,4 @@ int calculoDistancia() {
   return distancia; // Retorna a distância calculada
 }
 
-´´´
+```
